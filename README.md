@@ -18,9 +18,9 @@ Apasionado de la tecnología, combino el desarrollo web con mi interés por la *
 ---
 
 ### 🌱 Currently learning  
-- Desarrollo Fullstack con JavaScript (proyectos web dinámicos)  
 - Pentesting fundamentals y defensive security  
-- Automatización de tareas en ciberseguridad con Python  
+- Automatización de tareas en ciberseguridad con Python
+- Security analysis  
 
 ---
 
