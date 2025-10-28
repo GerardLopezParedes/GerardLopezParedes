@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D4D16AQHjg2CsSL3w6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZh7AIdTGkAY-/0/1754410289540?e=1761177600&v=beta&t=f_PGnuIwccebrFjai2s_BQeRN7bAVpHJNJsCeNlseO4](https://media.licdn.com/dms/image/v2/D4D16AQHjg2CsSL3w6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZh7AIdTGkAY-/0/1754410289540?e=1762992000&v=beta&t=tFUAEJ8WH3AjFUDQ77Nh2Iz8-2JYkw4M_kbBfgk-YHs)">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHjg2CsSL3w6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZh7AIdTGkAY-/0/1754410289540?e=1762992000&v=beta&t=tFUAEJ8WH3AjFUDQ77Nh2Iz8-2JYkw4M_kbBfgk-YHs">
 
 
 🚀 **Cybersecurity Learner | Systems & Networking | Fullstack Web Developer**  
