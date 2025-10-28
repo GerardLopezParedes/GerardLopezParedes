@@ -33,5 +33,5 @@ Apasionado de la tecnología, combino el desarrollo web con mi interés por la *
 ---
 
 ### 📫 Conecta conmigo
-- 💼 [LinkedIn](www.linkedin.com/in/gerard-lopez-paredes) 
+- 💼 [LinkedIn]([www.linkedin.com/in/gerard-lopez-paredes](https://www.linkedin.com/in/gerard-lopez-paredes/)) 
 - ✉️ lopezparedesgerard@gmail.com 
